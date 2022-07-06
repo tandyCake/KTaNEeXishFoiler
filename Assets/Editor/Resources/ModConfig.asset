@@ -11,10 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: 
-  title: 
-  author: 
-  description: 
-  version: 
+  id: exishFoiler
+  title: eXish Foiler
+  author: tandyCake
+  description: Sabotages eXish's attempts at fixing status light positions on his
+    modules by setting the status lights to their old positions.
+  version: 1.0.0
   outputFolder: build
-  previewImage: {fileID: 0}
+  previewImage: {fileID: 2800000, guid: f118e492f8db0e54b9f0527349f59137, type: 3}
